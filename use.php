@@ -37,32 +37,32 @@ include("./header.php");
   <a class="toForm__button__a" href="./index.php"><span class="toForm__button__span">目標値を入力する</span></a>
 </div>
 <section id="3" class="blue_back">
-<h2 class="center"><span class="bold__01 wf-roundedmplus1c">もうスプレッドシートに入力しなくていい…だと！？</span></h2>
+<h2 class="center"><span class="bold__01 wf-roundedmplus1c">入力にスプレッドシートが不要……そう、FollowersCountならね！</span></h2>
 <div class="container">
 <div class="row flow">
     <div class="col span-3">
-		<img src="img/comingsoon_00.png" alt="使い方4">
+		<img src="img/yourname.png" alt="使い方4">
     </div>
-    <div class="col span-9"><h3>お名前を入力(※必須項目)</h3><br /><p>あなたのお名前を入力してください。</p>
+    <div class="col span-9"><h3>お名前を入力<span class="red">(※必須項目)</span></h3><br /><p>あなたのお名前を入力してください。</p>
     </div>
     </div>	
 <div class="row flow">
     <div class="col span-3">
-		<img src="img/comingsoon_00.png" alt="使い方5">
+		<img src="img/yourmail.png" alt="使い方5">
     </div>
-    <div class="col span-9"><h3>mailアドレスを入力(※必須項目)</h3><br /><p>あなたのメールアドレスを入力してください。数分以内に入力内容の確認メールが届きます。これで安心ですね！</p>
+    <div class="col span-9"><h3>mailアドレスを入力<span class="red">(※必須項目)</span></h3><br /><p>あなたのメールアドレスを入力してください。数分以内に入力内容の確認メールが届きます。これで安心ですね！</p>
     </div>
     </div>
 <div class="row flow">
     <div class="col span-3">
-		<img src="img/comingsoon_00.png" alt="使い方6">
+		<img src="img/input_00.png" alt="使い方6">
     </div>
-    <div class="col span-9"><h3>目標値を入力(※必須項目)</h3><br /><p>今週の目標を入力してください。スプレッドシートに入力しようとすると、どうしてもPC環境になってしまいます。これならスマホから入力してもらえます。</p>
+    <div class="col span-9"><h3>目標値を入力<span class="red">(※必須項目)</span></h3><br /><p>今週の目標を入力してください。スプレッドシートに入力しようとすると、どうしてもPC環境になってしまいます。これならスマホから入力してもらえます。</p>
     </div>
     </div>
     <div class="row flow">
     <div class="col span-3">
-		<img src="img/comingsoon_00.png" alt="使い方5">
+		<img src="img/message_00.png" alt="使い方7">
     </div>
     <div class="col span-9"><h3>メッセージ(※任意・非公開)</h3><br /><p>任意でメッセージを入力することができます。(非公開)意気込みや、ご質問などございましたらどうぞ。</p>
     </div>

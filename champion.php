@@ -17,8 +17,8 @@ include("./header.php");
 <div class="row">
     <div class="col span-4">
 		<img src="img/comingsoon_00.png" alt="テキスト">
-		<h3>サブタイトル</h3>
-		<p>テキストテキストテキスト</p>
+		<h3>「俺が、ミスターツイッターだ……」</h3>
+		<p>圧倒的なフォロワー数を叩き出す。人呼んで「Mr.Twitter」</p>
     </div>
     <div class="col span-4">
 		<img src="img/comingsoon_00.png" alt="テキスト">
