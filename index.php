@@ -74,34 +74,27 @@ include("./header.php");
     </div>
     </div>
 	</div>
-  <div class="toForm__button">
-  <a class="toForm__button__a" href="./index">
-    <span class="toForm__button__span">
-      <div>
-      </div>
-    </span>
-  </a>
-  </div>
+  
 </section>
 		
 <section id="2">
-<h2 class="center"><span class="bold__01 wf-roundedmplus1c">タイトル</span></h2>
+<h2 class="center"><span class="bold__01 wf-roundedmplus1c">このアプリケーションについて</span></h2>
 <div class="container center">
 <div class="row">
     <div class="col span-4">
-		<img src="img/comingsoon_00.png" alt="テキスト">
-		<h3>サブタイトル</h3>
-		<p>テキストテキストテキスト</p>
+      <a href="./use"><img class="row__contents" src="img/howToUse_main_SP.png" alt="使い方"></a>
+      <h3>使い方を見る</h3>
+      <p>FollowersCountってな〜に？？使い方を解説！</p>
     </div>
     <div class="col span-4">
-		<img src="img/comingsoon_00.png" alt="テキスト">
-		<h3>サブタイトル</h3>
-		<p>テキストテキストテキスト</p>
+      <a href="./champion"><img class="row__contents" src="img/imthechampion_SP.png" alt="ランキング"></a>
+      <h3>殿堂入りを見る</h3>
+      <p>過去のチャンピオンたち。歴戦の猛者を紹介！！</p>
     </div>
     <div class="col span-4">
-		<img src="img/comingsoon_00.png" alt="テキスト">
-		<h3>サブタイトル</h3>
-		<p>テキストテキストテキスト</p>
+      <a href="./update"><img class="row__contents" src="img/update_SP.png" alt="アップデート情報"></a>
+      <h3>アップデート情報を見る</h3>
+      <p>FollowersCountの更新や修正について。今後増える機能や変更された場合に何が変わったのかを掲載します。</p>
     </div>
     </div>
 	</div>
@@ -141,24 +134,21 @@ include("./header.php");
     <div class="col span-4">
     <h4>倉敷沖新店</h4><br />
     <img src="img/shop_01.jpg" alt="倉敷沖新店">
-        <p>〒710-0832</p><br />
-        <p>岡山県倉敷市田ノ上新町14-1</p><br />
-        <p>営業時間&ensp;10:00〜18:00</p><br />
+        <p>沖チームから一言</p><br />
+        <p>チームワークで頑張ります。</p><br />
         <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.743886312351!2d133.75329171522912!3d34.5853464804642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355157fbeecc801b%3A0xc16c804e413ffc1!2z44Ki44OR44Oe44Oz44K344On44OD44OXIOWAieaVt-ayluaWsOW6lw!5e0!3m2!1sja!2sjp!4v1615515647689!5m2!1sja!2sjp" width="100%" height="auto" style="border:0;" allowfullscreen="" loading="lazy"></iframe> -->
     </div>
     <div class="col span-4 blue_back">
     <h4>新倉敷駅前店</h4><br />
     <img src="img/shopimg_06.jpg" alt="新倉敷駅前店">
-        <p>〒710-0253</p><br />
-        <p>岡山県倉敷市新倉敷駅前3丁目7-1</p><br />
-        <p>営業時間&ensp;10:00〜18:00</p><br />
+        <p>新倉チームから一言</p><br />
+        <p>新倉のことなら何でも聞いてください。</p><br />
     </div>
     <div class="col span-4">
     <h4>倉敷水島店</h4><br />
     <img src="img/shopimg_07.jpg" alt="倉敷水島店">
-        <p>〒712-8032</p><br />
-        <p>岡山県倉敷市北畝6丁目1-7</p><br />
-        <p>営業時間&ensp;10:00〜18:00</p><br />
+        <p>水島チームから一言</p><br />
+        <p>打倒、修繕・収納チーム</p><br />
     </div>
   </div>
   <!-- 1段目ここまで -->
@@ -167,23 +157,20 @@ include("./header.php");
     <div class="col span-4 blue_back">
     <h4>売買事業部</h4><br />
     <img src="img/shop_01.jpg" alt="売買事業部">
-        <p>〒710-0832</p><br />
-        <p>岡山県倉敷市田ノ上新町14-1</p><br />
-        <p>営業時間&ensp;10:00〜18:00</p><br />
+        <p>売買チームから一言</p><br />
+        <p>次回巻き返したる！</p><br />
     </div>
     <div class="col span-4">
     <h4>法人科</h4><br />
-    <img src="img/shopimg_06.jpg" alt="法人科">
-        <p>〒710-0253</p><br />
-        <p>岡山県倉敷市新倉敷駅前3丁目7-1</p><br />
-        <p>営業時間&ensp;10:00〜18:00</p><br />
+    <img src="img/ekimae_00.png" alt="法人科">
+        <p>法人・テナントチームから一言</p><br />
+        <p>頑張ります！</p><br />
     </div>
     <div class="col span-4 blue_back">
     <h4>修繕・収納</h4><br />
-    <img src="img/shopimg_07.jpg" alt="修繕・収納">
-        <p>〒712-8032</p><br />
-        <p>岡山県倉敷市北畝6丁目1-7</p><br />
-        <p>営業時間&ensp;10:00〜18:00</p><br />
+    <img src="img/YKG_00.png" alt="修繕・収納">
+        <p>修繕・収納チームから一言</p><br />
+        <p>ずっと首位を独走できるように走り続けます。</p><br />
     </div>
   </div>
   <!-- 2段目ここまで -->
@@ -191,24 +178,21 @@ include("./header.php");
   <div class="row">
     <div class="col span-4">
     <h4>PM</h4><br />
-    <img src="img/shop_01.jpg" alt="PM">
-        <p>〒710-0832</p><br />
-        <p>岡山県倉敷市田ノ上新町14-1</p><br />
-        <p>営業時間&ensp;10:00〜18:00</p><br />
+    <img src="img/YKG_00.png" alt="PM">
+        <p>PMチームから一言</p><br />
+        <p>設定した目標をクリアできるように時間を作って頑張ります。</p><br />
     </div>
     <div class="col span-4 blue_back">
     <h4>YKGホールディングス</h4><br />
-    <img src="img/shopimg_06.jpg" alt="YKGホールディングス">
-        <p>〒710-0253</p><br />
-        <p>岡山県倉敷市新倉敷駅前3丁目7-1</p><br />
-        <p>営業時間&ensp;10:00〜18:00</p><br />
+    <img src="img/YKG_00.png" alt="YKGホールディングス">
+        <p>本社チームから一言</p><br />
+        <p>みんなでできる範囲で進めていきます。</p><br />
     </div>
     <div class="col span-4">
     <h4>Web戦略/デザインスタジオ</h4><br />
-    <img src="img/shopimg_07.jpg" alt="Web戦略/デザインスタジオ">
-        <p>〒712-8032</p><br />
-        <p>岡山県倉敷市北畝6丁目1-7</p><br />
-        <p>営業時間&ensp;10:00〜18:00</p><br />
+    <img src="img/shop_01.jpg" alt="Web戦略/デザインスタジオ">
+        <p>web戦・デザインから一言</p><br />
+        <p>コンスタントに毎日少しずつ頑張ります。</p><br />
     </div>
   </div>
   <!-- 3段目ここまで -->

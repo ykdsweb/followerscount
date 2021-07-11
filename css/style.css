@@ -203,6 +203,10 @@ section {
 .flow.row {
 	margin-bottom: 3rem;
 }
+.row__contents:hover {
+    border: solid #333333 0.1px;
+    opacity: 0.9;
+}
 
 /*フッター
 -------------------------------------*/
@@ -407,7 +411,7 @@ a.btn_02_a span {
 /*ページトップへ戻るボタン
 -------------------------------------*/
 #pagetop {
-    background-image: url("/img/toTop_00.png");
+    background-image: url("/img/toTopPage_02.png");
     background-size: cover;
     background-repeat: no-repeat;
     bottom: 15px;
@@ -415,10 +419,10 @@ a.btn_02_a span {
     right: 15px;
 }
 #pagetop a {
-    padding: 7rem;
+    padding: 5rem;
 }
 #pagetop a:hover {
-    background-image: url("/img/toTop_01.png");
+    background-image: url("/img/toTopPage_03.png");
     background-size: cover;
     background-repeat: no-repeat;
 }

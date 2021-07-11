@@ -73,7 +73,7 @@ $userMail = 1;
 $BccMail = "";
 
 // 管理者宛に送信されるメールのタイトル（件名）
-$subject = "YKG FollowersCount";
+$subject = "YKG_FollowersCount";
 
 // 送信確認画面の表示(する=1, しない=0)
 $confirmDsp = 1;
@@ -129,19 +129,6 @@ $mailFooterDsp = 1;
 
 //上記で「1」を選択時に表示する署名（フッター）（FOOTER～FOOTER;の間に記述してください）
 $mailSignature = <<< FOOTER
-
-Success is the ability to go from failure to failure without losing your enthusiasm.
-(成功とは、失敗を重ねても、やる気を失わないでいられる才能である。)
-
-Winston Churchill
-(ウィンストン・チャーチル)
-
-──────────────────────
-YKDesignStudio
-〒710-0832 岡山県倉敷市田ノ上新町14-1
-FollowersCount: https://followerscount.site/
-E-mail: yk.designstudio1116@gmail.com
-──────────────────────
 
 FOOTER;
 

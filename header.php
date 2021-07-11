@@ -45,7 +45,7 @@
 <div class="container">
 <div class="row">
     <div class="col span-12 header">
-        <h1><a href="./index.php"><img src="img/YK_1.jpg" width="120" height="auto" alt="倉敷市周辺の賃貸物件情報はワイケイにお任せください。" /></a></h1>
+        <h1><a href="./index"><img src="img/YK_1.jpg" width="120" height="auto" alt="倉敷市周辺の賃貸物件情報はワイケイにお任せください。" /></a></h1>
         </div>
     </div>
 <div class="row">
@@ -60,7 +60,7 @@
                 <li><a href="./use">使い方</a></li>
                 <li><a href="./champion">ランキング</a></li>
                 <li><a href="./update">アップデート情報</a></li>
-                <li><a href="mailto:yk.designstudio1116@gmail.com?subject=twitterFollowersCount%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E8%B3%AA%E5%95%8F&amp;body=%0D%0A%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0D%0A%0D%0AFollowersCount%E3%81%8B%E3%82%89YKDesignStudio%E5%AE%9B%E3%81%AB%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%92%E9%80%81%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82%0D%0A%E4%BB%A5%E4%B8%8B%E3%81%AE%E5%86%85%E5%AE%B9%E3%82%92%E5%9F%8B%E3%82%81%E3%81%A6%E9%80%81%E4%BF%A1%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0D%0A%0D%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0D%0A%0D%0A%E3%81%8A%E5%90%8D%E5%89%8D%EF%BC%9A%0D%0A%E3%81%8A%E9%9B%BB%E8%A9%B1%EF%BC%9A%0D%0A%E3%83%A1%E3%83%BC%E3%83%AB%EF%BC%9A%0D%0A%E7%96%91%E5%95%8F%E7%82%B9%EF%BC%9A%0D%0A%0D%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0D%0A%0D%0A%E3%81%AA%E3%82%8B%E3%81%B9%E3%81%8F%E6%97%A9%E3%82%81%E3%81%AB%E3%81%8A%E8%BF%94%E4%BA%8B%E3%81%97%E3%81%BE%E3%81%99%E3%80%82%E5%B0%91%E3%81%97%E3%81%8A%E5%BE%85%E3%81%A1%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82&amp;%0D%0A">お問合せ</a></li>
+                <li><a href="mailto:yk.designstudio1116@gmail.com?subject=FollowersCount%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%28%E3%81%BE%E3%81%9F%E3%81%AF%E3%81%9D%E3%81%AE%E4%BB%96%29&amp;body=%E3%81%94%E9%80%A3%E7%B5%A1%E3%80%81%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E3%80%82FollowersCount%E3%81%8B%E3%82%89YKDesignStudio%E3%81%B8%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%92%E9%80%81%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82%E8%B3%AA%E5%95%8F%E3%81%AA%E3%81%A9%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%82%89%E3%80%81%E3%81%8A%E5%90%8D%E5%89%8D%E3%80%81%E5%85%B7%E4%BD%93%E7%9A%84%E3%81%AA%E5%86%85%E5%AE%B9%E3%82%92%E3%81%94%E8%A8%98%E5%85%A5%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82">お問合せ</a></li>
             </ul>
             </div>
         </nav>
